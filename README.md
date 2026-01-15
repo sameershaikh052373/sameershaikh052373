@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sameer Shaikh</h1>
 <h3 align="center">A Full Stack Developer (Java Spring Boot & MERN Stack) from Mumbai, India</h3>
 
-- - 🔭 I’m currently working on Full Stack projects using Java Spring Boot and MERN Stack 
+-  🔭 I’m currently working on Full Stack projects using Java Spring Boot and MERN Stack 
 
-- - 🌱 I’m currently learning Advanced Spring Security, Microservices & DevOps fundamentals 
+-  🌱 I’m currently learning Advanced Spring Security, Microservices & DevOps fundamentals 
 
 - 👨‍💻 All of my projects are available at (sameershaikh052373)
 
-- - 📫 How to reach me: sameer.shaikh.052373@gmail.com 
+-  📫 How to reach me: sameer.shaikh.052373@gmail.com 
 
 - ⚡ Fun fact **I enjoy building real-world projects and learning new technologies every day.**
 
